@@ -1,0 +1,52 @@
+* {
+    
+    box-sizing: border-box;
+}
+
+main {
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+.name {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color:orangered;
+    background-color:aliceblue;
+    
+   
+    
+    
+    
+
+    
+}
+.back {
+    width: 215px;
+    height: 200px;
+    border-radius: 100%;
+    display: flex;
+    background-color: orangered;
+    margin-left: 16px;
+    margin-bottom: 200px;
+    
+   
+
+}
+ 
+.back1 {
+    width: 190px;
+    height: 200px;
+    border-radius: 80%;
+    background-color:deepskyblue;
+    
+
+   
+}
+ 
